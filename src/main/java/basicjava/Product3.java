@@ -1,4 +1,4 @@
-
+//Assignment 3
 package basicjava;
 import java.util.Scanner;
 public class Product3 {
