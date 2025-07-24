@@ -6,7 +6,7 @@ import java.util.Scanner;
       try(Scanner input = new Scanner(System.in)){
     
         int m, n, count =0;
-        System.out.println("Enter starting and ending number: ");
+          System.out.println("Enter starting and ending number: ");
         m = input.nextInt();
         n= input.nextInt();
         System.out.println("Palindrome numbers betwwen them are : ");
